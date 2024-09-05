@@ -18,7 +18,7 @@ Find more: [Data Science](https://github.com/RicardoHalak/DataScience) & [Quanti
 - **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
 - **LLMs**: Quantization, Fine-tuning, Retrieval-Augmented Generation
 - **ML Engineering**: [Google Cloud Certified Professional Machine Learning Engineer](https://pdf.credential.net/0m7id4pn_1710683752173.pdf)
-- **Other**: SQL, AWS, Linux, Git, Jupyter Notebooks, VBA, R, HTML, CSS, JS, Salesforce Development
+- **Other**: SQL, AWS, Linux, Git, Jupyter Notebook, VBA, R, HTML, CSS, JS, Salesforce Development
 
 ## 
 <!--![Anurag's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=compact)
