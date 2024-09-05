@@ -12,8 +12,8 @@
 
 Find more: [Data Science](https://github.com/RicardoHalak/DataScience) & [Quantitative Finance](https://github.com/RicardoHalak/Quant) Projects
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ricardomimohalak//) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](datacamp.com/portfolio/ricardohalak-97519e2e-187f-43c5-b68f-e8749cdbcacd) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardomimohalak//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ricardo_halak) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg' alt='datacamp' height='40'>](https://www.datacamp.com/portfolio/ricardohalak-97519e2e-187f-43c5-b68f-e8749cdbcacd)  
 
 
