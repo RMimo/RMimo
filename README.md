@@ -10,7 +10,7 @@
 ## Projects
 - [End-to-End Workflow for House Price Prediction Using Machine Learning](https://github.com/RMHalak/Projects?tab=readme-ov-file#end-to-end-workflow-for-house-price-prediction-using-machine-learning)
 - [Earning Call Report Generation using Large Language Models](https://github.com/RMHalak/Projects?tab=readme-ov-file#earning-call-report-generation-using-large-language-models)
-- [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements]([https://github.com/RMHalak/Projects?tab=readme-ov-file#long-only-trading-strategy-based-on-random-forests-to-forecast-stock-movements)
+- [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements](https://github.com/RMHalak/Projects?tab=readme-ov-file#long-only-trading-strategy-based-on-random-forests-to-forecast-stock-movements)
 - [Pairs Trading GOOG-GOOGL](https://github.com/RMHalak/Projects?tab=readme-ov-file#pairs-trading-goog-googl)
 - [Black-Scholes Model for European Option Pricing](https://github.com/RMHalak/Projects?tab=readme-ov-file#black-scholes-model-for-european-option-pricing)
 - [Calculating Option Implied Volatility using Newton-Raphson Method](https://github.com/RMHalak/Projects?tab=readme-ov-file#calculating-option-implied-volatility-using-newton-raphson-method)
