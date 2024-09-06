@@ -1,3 +1,6 @@
+
+---
+
 # Ricardo Mimo Halak
 ## Education
 - MSc Data Science & Management
@@ -5,7 +8,7 @@
   
 ## Experiences
 - Deloitte Consulting
-- Körber Pharma
+- Körber Pharma Software
 - Helmholtz-Zentrum
 
 ## Skills 
@@ -24,13 +27,25 @@
 - [Calculating VaR and CVaR using Monte Carlo Simulations](https://github.com/RMHalak/Projects?tab=readme-ov-file#calculating-var-and-cvar-using-monte-carlo-simulations)
 - [Financial Data Analysis and Visualization](https://github.com/RMHalak/Projects?tab=readme-ov-file#financial-data-analysis-and-visualization) 
 
-![Anurag's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=compact)
+<!--![Anurag's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=compact)
 [![Anurag's GitHubTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=donut)](https://github.com/RicardoHalak/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoHalak&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoHalak&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)-->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardomimohalak/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ricardo_halak) 
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardomimohalak/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ricardo_halak) -->
 
+## 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ricardomimohalak/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+  </a>
+  <a href="https://www.hackerrank.com/profile/ricardo_halak">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40">
+  </a>
+</div>
+
+--- 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg' alt='datacamp' height='40'>](https://www.datacamp.com/portfolio/ricardohalak-97519e2e-187f-43c5-b68f-e8749cdbcacd)  -->
 
 
