@@ -1,6 +1,3 @@
-
----
-
 # Ricardo Mimo Halak
 ## Education
 - MSc Data Science & Management
@@ -45,7 +42,7 @@
   </a>
 </div>
 
---- 
+## 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/datacamp.svg' alt='datacamp' height='40'>](https://www.datacamp.com/portfolio/ricardohalak-97519e2e-187f-43c5-b68f-e8749cdbcacd)  -->
 
 
