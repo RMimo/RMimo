@@ -8,9 +8,14 @@
 - Helmholtz-Zentrum
   
 ## Projects
-- [End-to-End Workflow for House Price Prediction Using Machine Learning](https://colab.research.google.com/drive/1jTEhWglRgdC5eMfFgaKAMcNDoV2HfqDe?usp=sharing)
-- [Earning Call Report Generation using Large Language Models](https://colab.research.google.com/drive/1qhf6yukdh87epegSNZ5fo8-vStrEyQew?usp=sharing)
-- [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements](https://colab.research.google.com/drive/1_QqpvhfTRzi7BVRl8kMlCPM47qMjK_c2?usp=sharing)
+- [End-to-End Workflow for House Price Prediction Using Machine Learning](https://github.com/RMHalak/Projects?tab=readme-ov-file#end-to-end-workflow-for-house-price-prediction-using-machine-learning)
+- [Earning Call Report Generation using Large Language Models](https://github.com/RMHalak/Projects?tab=readme-ov-file#earning-call-report-generation-using-large-language-models)
+- [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements]([https://github.com/RMHalak/Projects?tab=readme-ov-file#long-only-trading-strategy-based-on-random-forests-to-forecast-stock-movements)
+- [Pairs Trading GOOG-GOOGL](https://github.com/RMHalak/Projects?tab=readme-ov-file#pairs-trading-goog-googl)
+- [Black-Scholes Model for European Option Pricing](https://github.com/RMHalak/Projects?tab=readme-ov-file#black-scholes-model-for-european-option-pricing)
+- [Calculating Option Implied Volatility using Newton-Raphson Method](https://github.com/RMHalak/Projects?tab=readme-ov-file#calculating-option-implied-volatility-using-newton-raphson-method)
+- [Calculating VaR and CVaR using Monte Carlo Simulations](https://github.com/RMHalak/Projects?tab=readme-ov-file#calculating-var-and-cvar-using-monte-carlo-simulations)
+- [Financial Data Analysis and Visualization](https://github.com/RMHalak/Projects?tab=readme-ov-file#financial-data-analysis-and-visualization) 
 
 ## Skills 
 - **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
