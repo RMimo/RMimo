@@ -12,8 +12,6 @@
 - [Earning Call Report Generation using Large Language Models](https://colab.research.google.com/drive/1qhf6yukdh87epegSNZ5fo8-vStrEyQew?usp=sharing)
 - [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements](https://colab.research.google.com/drive/1_QqpvhfTRzi7BVRl8kMlCPM47qMjK_c2?usp=sharing)
 
-Find more: [Data Science](https://github.com/RicardoHalak/DataScience) & [Quantitative Finance](https://github.com/RicardoHalak/Quant) projects
-
 ## Skills 
 - **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
 - **LLMs**: Quantization, Fine-tuning, Retrieval-Augmented Generation
