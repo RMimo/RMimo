@@ -33,15 +33,15 @@
 
 ## 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ricardomimohalak/">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40">
+<div align="center" style="line-height: 0;">
+  <a href="https://www.linkedin.com/in/ricardomimohalak/" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40" style="vertical-align: middle;">
   </a>
-  <a href="https://www.hackerrank.com/profile/ricardo_halak">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40">
+  <a href="https://www.hackerrank.com/profile/ricardo_halak" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" style="vertical-align: middle;">
   </a>
-  <a href="https://huggingface.co/RMHalak">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hackerrank" height="40">
+  <a href="https://huggingface.co/RMHalak" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" height="40" style="vertical-align: middle;">
   </a>
 </div>
 
