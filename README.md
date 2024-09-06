@@ -2,10 +2,17 @@
 ## Education
 - MSc Data Science & Management
 - BEng Materials Science & Engineering
+  
 ## Experiences
 - Deloitte Consulting
 - Körber Pharma
 - Helmholtz-Zentrum
+
+## Skills 
+- **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
+- **LLMs**: Quantization, Fine-tuning, Retrieval-Augmented Generation
+- **ML Engineering**: [Google Cloud Certified Professional Machine Learning Engineer](https://pdf.credential.net/0m7id4pn_1710683752173.pdf)
+- **Other**: SQL, AWS, Linux, Git, Jupyter Notebook, VBA, R, HTML, CSS, JS, Salesforce Development
   
 ## [Projects](https://github.com/RMHalak/Projects)
 - [End-to-End Workflow for House Price Prediction Using Machine Learning](https://github.com/RMHalak/Projects?tab=readme-ov-file#end-to-end-workflow-for-house-price-prediction-using-machine-learning)
@@ -17,17 +24,9 @@
 - [Calculating VaR and CVaR using Monte Carlo Simulations](https://github.com/RMHalak/Projects?tab=readme-ov-file#calculating-var-and-cvar-using-monte-carlo-simulations)
 - [Financial Data Analysis and Visualization](https://github.com/RMHalak/Projects?tab=readme-ov-file#financial-data-analysis-and-visualization) 
 
-## Skills 
-- **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
-- **LLMs**: Quantization, Fine-tuning, Retrieval-Augmented Generation
-- **ML Engineering**: [Google Cloud Certified Professional Machine Learning Engineer](https://pdf.credential.net/0m7id4pn_1710683752173.pdf)
-- **Other**: SQL, AWS, Linux, Git, Jupyter Notebook, VBA, R, HTML, CSS, JS, Salesforce Development
-
-## 
-<!--![Anurag's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=compact)
+![Anurag's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=compact)
 [![Anurag's GitHubTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoHalak&layout=donut)](https://github.com/RicardoHalak/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoHalak&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true) -->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoHalak&hide=contribs,prs&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ricardomimohalak/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ricardo_halak) 
