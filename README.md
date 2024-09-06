@@ -7,7 +7,7 @@
 - Körber Pharma
 - Helmholtz-Zentrum
   
-## Projects
+## [Projects](https://github.com/RMHalak/Projects)
 - [End-to-End Workflow for House Price Prediction Using Machine Learning](https://github.com/RMHalak/Projects?tab=readme-ov-file#end-to-end-workflow-for-house-price-prediction-using-machine-learning)
 - [Earning Call Report Generation using Large Language Models](https://github.com/RMHalak/Projects?tab=readme-ov-file#earning-call-report-generation-using-large-language-models)
 - [Long-only Trading Strategy based on Random Forests to Forecast Stock Movements](https://github.com/RMHalak/Projects?tab=readme-ov-file#long-only-trading-strategy-based-on-random-forests-to-forecast-stock-movements)
