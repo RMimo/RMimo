@@ -32,17 +32,22 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ricardo_halak) -->
 
 ## 
-
-<div align="center" style="line-height: 0;">
-  <a href="https://www.linkedin.com/in/ricardomimohalak/" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40" style="vertical-align: middle;">
-  </a>
-  <a href="https://www.hackerrank.com/profile/ricardo_halak" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" style="vertical-align: middle;">
-  </a>
-  <a href="https://huggingface.co/RMHalak" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" height="40" style="vertical-align: middle;">
-  </a>
+<div style="display: flex; align-items: center;">
+  <div style="line-height: 0; text-decoration: none; border: none; padding: 0 10px;">
+    <a href="https://www.linkedin.com/in/ricardomimohalak/" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+      <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40" style="vertical-align: middle;">
+    </a>
+  </div>
+  <div style="line-height: 0; text-decoration: none; border: none; padding: 0 10px;">
+    <a href="https://www.hackerrank.com/profile/ricardo_halak" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+      <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40" style="vertical-align: middle;">
+    </a>
+  </div>
+  <div style="line-height: 0; text-decoration: none; border: none; padding: 0 10px;">
+    <a href="https://huggingface.co/RMHalak" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" height="40" style="vertical-align: middle;">
+    </a>
+  </div>
 </div>
 
 ## 
