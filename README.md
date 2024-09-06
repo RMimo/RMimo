@@ -8,8 +8,8 @@
   
 ## Experiences
 - Deloitte Consulting
-- Körber Pharma Software
-- Helmholtz-Zentrum
+- Körber Pharma
+- Helmholtz-Zentrum Hereon
 
 ## Skills 
 - **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
