@@ -35,10 +35,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardomimohalak/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40">
   </a>
   <a href="https://www.hackerrank.com/profile/ricardo_halak">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="40">
+  </a>
+  <a href="https://huggingface.co/RMHalak">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hackerrank" height="40">
   </a>
 </div>
 
@@ -47,5 +50,6 @@
 
 
 <!--
+https://huggingface.co/RMHalak
 
 -->
