@@ -1,4 +1,4 @@
-# Ricardo Mimo Halak
+# Ricardo Mimo
 ## Education
 - MSc Data Science & Management
 - BEng Materials Science & Engineering
