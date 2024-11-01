@@ -14,7 +14,7 @@
 - **ML Engineering**: [Google Cloud Certified Professional Machine Learning Engineer](https://pdf.credential.net/0m7id4pn_1710683752173.pdf)
 - **Other**: SQL, AWS, Linux, Git, Jupyter Notebook, VBA, R, HTML, CSS, JS, Salesforce Development
   
-## [Projects](https://github.com/RMHalak/Projects)
+## [Projects](https://github.com/RMimo/Projects)
 - [Extracting Insights From Apple Inc.'s 2023 Form 10-K Report Using Retrieval-Augmented Generation](https://github.com/RMimo/Projects/tree/main?tab=readme-ov-file#extracting-insights-from-apple-incs-2023-form-10-k-report-using-retrieval-augmented-generation)
 - [End-to-End Workflow for House Price Prediction Using Machine Learning](https://github.com/RMimo/Projects?tab=readme-ov-file#end-to-end-workflow-for-house-price-prediction-using-machine-learning)
 - [Earning Call Report Generation using Large Language Models](https://github.com/RMimo/Projects?tab=readme-ov-file#earning-call-report-generation-using-large-language-models)
