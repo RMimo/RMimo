@@ -9,10 +9,10 @@
 - Helmholtz-Zentrum Hereon
 
 ## Skills 
-- **Python**: transformers, torch, tensorflow, langchain, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
+- **Python**: transformers, torch, tensorflow, langchain, FastAPI, sklearn, pandas, numpy, matplotlib, plotly, yfinance, statsmodels, streamlit, dash
 - **LLMs**: Quantization, Fine-tuning, Retrieval-Augmented Generation
 - **ML Engineering**: [Google Cloud Certified Professional Machine Learning Engineer](https://pdf.credential.net/0m7id4pn_1710683752173.pdf)
-- **Other**: SQL, AWS, Linux, Git, Jupyter Notebook, VBA, R, HTML, CSS, JS, Salesforce Development
+- **Other**: SQL, MongoDB, AWS, Linux, Git, Jupyter Notebook, HTML, CSS, JS, Salesforce Development
   
 ## [Projects](https://github.com/RMimo/Projects)
 - [Advanced Retrieval-Augmented Generation: Query Expansion](https://github.com/RMimo/Projects?tab=readme-ov-file#advanced-retrieval-augmented-generation-query-expansion)
