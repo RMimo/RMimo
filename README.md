@@ -35,7 +35,7 @@
 
 ## 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ricardomimohalak/">
+  <a href="https://www.linkedin.com/in/ricardomimo/">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="40">
   </a>
   <a href="https://www.hackerrank.com/profile/ricardo_halak"> 
